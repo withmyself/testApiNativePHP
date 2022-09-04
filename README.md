@@ -1,6 +1,6 @@
 # testApiNativePHP
 
-/api/advert.php?id=X
+/api/advert.php?id=X <br>
 /api/advert.php?id=X&fields=descr,photo
 
 /api/adverts.php
